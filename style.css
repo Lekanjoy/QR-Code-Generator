@@ -94,7 +94,7 @@ header p{
 
 @media screen and (max-width:460px){
    .container .box{
-    width: 300px;
+    width:250px;
     height:  250px;
 }
 .box.active{
